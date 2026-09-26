@@ -128,5 +128,3 @@ kubectl apply -f pod-with-pvc.yaml
 kubectl get pod 
 kubectl get pvc
 kubectl get sc
-
-  
